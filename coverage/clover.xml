@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1727954273969" clover="3.2.0">
-  <project timestamp="1727954273969" name="All files">
+<coverage generated="1727955652283" clover="3.2.0">
+  <project timestamp="1727955652283" name="All files">
     <metrics statements="21" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="9" elements="31" coveredelements="28" complexity="0" loc="21" ncloc="21" packages="1" files="3" classes="3"/>
     <file name="main.js" path="/Users/a.nasstya/Desktop/promises/src/main.js">
       <metrics statements="9" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
