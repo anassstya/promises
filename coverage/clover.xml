@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1727953276534" clover="3.2.0">
+  <project timestamp="1727953276534" name="All files">
+    <metrics statements="21" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="9" elements="31" coveredelements="28" complexity="0" loc="21" ncloc="21" packages="1" files="3" classes="3"/>
+    <file name="main.js" path="/Users/a.nasstya/Desktop/promises/src/main.js">
+      <metrics statements="9" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="9" count="2" type="stmt"/>
+      <line num="11" count="0" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="20" count="0" type="stmt"/>
+    </file>
+    <file name="parser.js" path="/Users/a.nasstya/Desktop/promises/src/parser.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+    </file>
+    <file name="reader.js" path="/Users/a.nasstya/Desktop/promises/src/reader.js">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="9" count="2" type="stmt"/>
+      <line num="10" count="180" type="stmt"/>
+      <line num="12" count="2" type="stmt"/>
+    </file>
+  </project>
+</coverage>
