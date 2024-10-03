@@ -16,6 +16,6 @@ export class GameSavingLoader {
 const result = new GameSavingLoader();
 result.load().then(saving => {
   console.log(saving);
-}).catch(error => {
+}, (error => {
   console.error(error);
-});
+}));
